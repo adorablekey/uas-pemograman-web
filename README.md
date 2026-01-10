@@ -74,3 +74,6 @@ password : 123
 
 # catatan
 Proyek ini memenuhi seluruh standar kompetensi pemrograman web yang diminta, yaitu penguasaan database (MySQL), logika pemrograman (PHP), keamanan akses (Login Role), dan pengalaman pengguna (Responsive Design)
+
+link youtube 
+https://youtube.com/@keysianurhayatikeysiapanjaitan?si=82m159-xAyyaECqT
