@@ -64,6 +64,11 @@ pembuatan database dan tabel di phpMyAdmin.
 # Halaman login
 <img width="1920" height="1200" alt="Screenshot 2026-01-10 161258" src="https://github.com/user-attachments/assets/70f869fe-f580-4147-b293-efe39977fbcf" />
 
+# masukan username dan passwordnya
+username : key
+password : 123
+<img width="1920" height="1200" alt="Screenshot 2026-01-10 205018" src="https://github.com/user-attachments/assets/3496a659-8101-4db0-9814-0ecb1b771332" />
+
 # user panel _ booking
 <img width="1920" height="1200" alt="Screenshot 2026-01-10 204231" src="https://github.com/user-attachments/assets/46471de7-bd8a-42e2-862b-d563b3e6ef68" />
 
