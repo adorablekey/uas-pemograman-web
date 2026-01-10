@@ -9,15 +9,15 @@
 ​Aplikasi Bengkel Motor adalah platform manajemen sederhana yang dirancang menggunakan arsitektur MVC (Model-View-Controller) dengan PHP native. Aplikasi ini mendukung pengelolaan data sparepart, layanan servis, dan sistem login berbasis peran (role-based access control).
 
 # fitur yang digunakan
-# php (Native/OOP)
-# MySQL
-# Apache
-# html5 & CSS3
+      php (Native/OOP)
+      MySQL
+      Apache
+      html5 & CSS3
 
 # Fitur yang digunakan 
-# Login
-# user panel booking
-# logout
+      Login
+      user panel booking
+      logout
 
 # struktur folder project
 
