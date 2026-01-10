@@ -1,0 +1,144 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* BODY */
+body {
+    background: #f4f6f9;
+    padding: 30px;
+}
+
+/* JUDUL */
+h2 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* FORM */
+form {
+    background: #ffffff;
+    padding: 25px;
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea {
+    resize: none;
+    height: 80px;
+}
+
+/* BUTTON */
+button {
+    background: #3498db;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+/* LINK */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* DASHBOARD */
+.dashboard {
+    background: white;
+    padding: 20px;
+    width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.dashboard a {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/* TABLE */
+table {
+    width: 100%;
+    background: white;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th {
+    background: #3498db;
+    color: white;
+    padding: 10px;
+}
+
+table td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+table tr:hover {
+    background: #f1f1f1;
+}
+
+/* STATUS */
+.status-pending {
+    color: orange;
+    font-weight: bold;
+}
+
+.status-proses {
+    color: blue;
+    font-weight: bold;
+}
+
+.status-selesai {
+    color: green;
+    font-weight: bold;
+}
+
+.status-batal {
+    color: red;
+    font-weight: bold;
+}
+
+/* ACTION BUTTON */
+.action a {
+    padding: 5px 8px;
+    border-radius: 4px;
+    color: white;
+    font-size: 12px;
+}
+
+.action .proses {
+    background: #f39c12;
+}
+
+.action .selesai {
+    background: #2ecc71;
+}
+
+.action .batal {
+    background: #e74c3c;
+}
