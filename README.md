@@ -50,5 +50,22 @@
         username : key
         Password: 123
 
+# pembuatan database
 
+pembuatan database dan tabel di phpMyAdmin.
+<img width="1920" height="1200" alt="Screenshot 2026-01-10 203327" src="https://github.com/user-attachments/assets/a2b75878-73c6-41e2-8c0e-74a6c14e8c6e" />
 
+# Folder Project
+<img width="241" height="739" alt="Screenshot 2026-01-10 203605" src="https://github.com/user-attachments/assets/e0d8ce9d-640c-4d63-a645-af583f30a414" />
+
+# Implementasi Routing (.htaccess)
+<img width="562" height="180" alt="Screenshot 2026-01-10 203825" src="https://github.com/user-attachments/assets/667ee7f8-0cab-4d16-bbd6-e798ff07eb6a" />
+
+# Halaman login
+<img width="1920" height="1200" alt="Screenshot 2026-01-10 161258" src="https://github.com/user-attachments/assets/70f869fe-f580-4147-b293-efe39977fbcf" />
+
+# user panel _ booking
+<img width="1920" height="1200" alt="Screenshot 2026-01-10 204231" src="https://github.com/user-attachments/assets/46471de7-bd8a-42e2-862b-d563b3e6ef68" />
+
+# catatan
+Proyek ini memenuhi seluruh standar kompetensi pemrograman web yang diminta, yaitu penguasaan database (MySQL), logika pemrograman (PHP), keamanan akses (Login Role), dan pengalaman pengguna (Responsive Design)
