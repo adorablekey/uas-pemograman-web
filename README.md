@@ -21,19 +21,31 @@
 
 # struktur folder project
 
-      BENGKEL_MOTOR/
-      ├── app/                      
-      │   ├── config/
-      │   │   └── koneksi.php       # Pindahkan dari folder config lama
-      │   ├── controllers/          # Logika login, booking, dsb
-      │   ├── models/               # Query database
-      │   └── views/                # Pindahkan file dashboard, login ke sini
-      ├── public/                   # Folder yang bisa diakses publik
-      │   ├── assets/               # CSS, JS, Gambar
-      │   │   └── style.css
-      │   ├── .htaccess             # File routing (SANGAT PENTING)
-      │   └── index.php             # Entry point utama aplikasi
-      └── .htaccess                 # Opsional: untuk mengarahkan root ke /public
+                       bengkel-motor/
+                  │
+                  ├── admin/
+                  │   ├── dashboard.php
+                  │   ├── kelola_booking.php
+                  │   └── update_status.php
+                  │
+                  ├── assets/
+                  │   ├── style.css
+                  │   └── .htaccess
+                  │
+                  ├── auth/
+                  │   ├── login.php
+                  │   ├── register.php
+                  │   └── logout.php
+                  │
+                  ├── config/
+                  │   └── koneksi.php
+                  │
+                  ├── customer/
+                  │   ├── booking.php
+                  │   ├── booking_proses.php
+                  │   └── dashboard.php
+                  │
+                  └── index.php
 
 
 # cara menjalakan aplikasinya
